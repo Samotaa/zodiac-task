@@ -1,0 +1,56 @@
+{
+    "welcome": "Horoskope",
+    "greeting":  "Hi {name}!",
+    "date": "Horoscope for today",
+    "open": "Read",
+    "zodiac": {
+        "aries": {
+            "name": "Aries",
+            "date": "March 21 – April 20"
+        },
+        "taurus": {
+            "name": "Taurus",
+            "date": "April 21 – May 21"
+        },
+        "gemini": {
+            "name": "Gemini",
+            "date": "May 22 – June 21"
+        },
+        "cancer": {
+            "name": "Cancer",
+            "date": "June 22 – July 22"
+        },
+        "leo": {
+            "name": "Leo",
+            "date": "July 23 – August 23"
+        },
+        "virgo": {
+            "name": "Virgo",
+            "date": "August 24 – September 23"
+        },
+        "libra": {
+            "name": "Libra",
+            "date": "September 24 – October 23"
+        },
+        "scorpio": {
+            "name": "Scorpio",
+            "date": "October 24 – November 22"
+        },
+        "sagittarius": {
+            "name": "Sagittarius",
+            "date": "November 23 – December 21"
+        },
+        "capricorn": {
+            "name": "Capricorn",
+            "date": "December 22 – January 20"
+        },
+        "aquarius": {
+            "name": "Aquarius",
+            "date": "January 21 – February 18"
+        },
+        "pisces": {
+            "name": "Pisces",
+            "date": "February 19 – March 20"
+        }
+    }
+}
